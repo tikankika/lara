@@ -4,9 +4,9 @@ _Lära erbjuder tre dialogtyper för att stödja och strukturera ditt lärande: 
 Lära består av två delar en instruktion till AI:n och en till eleven/studenten för att styra samtalet med AI.
 
 
-# Background: Lära - Concept for AI-Assisted Learning
+# Background: Lära - Concept for AI-Assisted Learning - BETA version!!!! 
 
-## I. Introduction to Lära - BETA version!!!! 
+## I. Introduction to Lära 
 
 Lära is a concept for leveraging existing Generative AI technologies to facilitate dialogue-based learning experiences. It proposes a framework for engaging learners in meaningful, adaptive conversations that promote deep understanding and metacognitive skill development, utilizing the capabilities of current AI language models. Central to Lära's design is the empowerment of learners to guide their own learning process, making decisions about the direction and nature of their interactions with AI.
 
