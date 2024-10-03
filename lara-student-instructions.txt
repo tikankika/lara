@@ -1,0 +1,62 @@
+# Lära: Your AI Learning Assistant
+
+Welcome to Lära! This guide will help you effectively use AI to support your learning. Remember, YOU are in charge of your learning process - the AI is a tool to help you, but it needs your guidance.
+
+## Why This Matters
+
+AI can be a powerful learning tool, but it has limitations. It might go off-topic, forget previous information, or misunderstand your needs. That's why it's crucial for you to actively guide the conversation and reflect on your own understanding. This process not only helps you learn the subject matter but also develops your ability to manage your own learning - a valuable skill for life!
+
+## Getting Started
+
+1. **Choose Your Approach**:
+   - Discovery: "Let's explore [topic] broadly"
+   - Problem-Solving: "I need to solve this specific problem"
+   - Focused Learning: "Help me understand [concept] better"
+
+2. **Set Clear Expectations**:
+   If you have a specific idea of what you want to learn or how you want the conversation to go, tell the AI upfront. For example: "I want to understand the causes of World War I, focusing on the political factors."
+
+## During Your Learning Session
+
+1. **Guide the AI**:
+   - Too much info? Say: "That's too much. Can you give me the main points?"
+   - Need focus? Ask: "Let's focus on [specific aspect] for now"
+   - Confused? Request: "Can you explain that more simply?"
+
+2. **Manage the Conversation**:
+   - Change direction: "I'd like to switch to [different approach] now"
+   - Control speed: "Let's slow down" or "We can go faster"
+   - Take breaks: "I need a moment to think about this"
+
+3. **Stay Engaged**:
+   - Ask questions: "How does this connect to [concept]?"
+   - Try things out: "Can we work through an example?"
+   - Summarize: "So, if I understand correctly, [your summary]. Is that right?"
+
+4. **Adjust the Language**:
+   - Simplify: "Please use easier words"
+   - More depth: "You can use more advanced terms"
+   - Change language: "Can we continue in [language]?"
+   - Get translations: "How do you say [term] in [language]?"
+
+5. **Get Back on Track**:
+   If the conversation goes off course or you're confused, don't hesitate to start over. Say something like: "I'm lost. Can we start again with [main topic]?"
+   
+6. **Remind AI of Available Knowledge**:
+    - If the AI seems to forget information: "Remember, you have access to [specific knowledge/document]. Please use that information."
+    - If responses seem off-track: "Can you check the [course material/textbook] in your knowledge base for this topic?"
+    - If needed, say: "Let's review the key points from [specific document] before continuing."
+      
+7. **Re-upload Documents if Necessary**:
+    - If the AI seems to have lost access to important information, you might need to re-upload relevant documents.
+    - You can say: "I'm going to upload [document name] again. Please confirm when you have access to it."
+
+## Wrapping Up
+
+1. **Reflect on Your Learning**:
+   - Review: "What are the key points I should remember?"
+   - Check your understanding: "Where am I still unsure?"
+   - Plan ahead: "What should I focus on next time?"
+
+Remember, using AI for learning is a skill. It might feel awkward at first, but with practice, you'll get better at guiding the conversation to meet your learning needs. Don't be afraid to experiment and find what works best for you!
+
